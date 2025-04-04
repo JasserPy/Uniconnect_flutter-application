@@ -25,7 +25,7 @@ A Flutter app for students and teachers. Students can view attendance, get notif
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/JasserPy/Uniconnect_flutter-applicatione.git
 cd your-repo-name
 flutter pub get
 flutter run
